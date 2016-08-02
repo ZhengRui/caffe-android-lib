@@ -8,3 +8,4 @@
     * Can load multiple models, use conventional pointers rather than a static member to locate each model.
     * support batch forwarding for feature extraction, and only forward to the layers of interests. Both batch processing and not forwarding to fully connected layers save computations and time.
 
++ TODO: demo android apps will be added soon.
